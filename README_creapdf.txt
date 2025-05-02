@@ -1,0 +1,4 @@
+è un programmino pulito e veloce che, a partire da 1 cartella che contiene screenshot che ti fa selezionare, produce 1 PDF che inserisce ciascuno screenshot (formati ammessi png jpg jpeg) in una pagina del pdf, procedendo in ordine dal più vecchio al più recente screenshot. non cancella gli screen, l'output PDF viene creato in una sottocartella della cartella che selezioni. 
+quindi, prima di eseguire, scaletta:
+crea una CartellA e posizionaci dentro il file creapdf.py e una cartella che continue gli screenshot che vuoi unire in 1 pdf, apri il terminale e vai con cd nella CartellA, poi lancia: python3 creapdf.py
+si aprirà un selezionatore di cartella gli dici quella che vuoi e gg, otterrai il pdf in una sottocartella della cartella indicata. Se vuoi ripetere l'operazione puoi farlo direttamente perché non sovrascrive il pdf già creato ma crea un'altra cartella e  un nuovo pdf. Deliriouscalyme 2 maggio 2025
